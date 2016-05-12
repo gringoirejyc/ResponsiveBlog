@@ -2,9 +2,11 @@
 
 ## Project Goals: ##
 
-[x ] Make the images fit in their containers in the viewport.
-[x ] Restrain the width of the blog.
-[x ] Drop the page weight.
+- [x] Make the images fit in their containers in the viewport.
+- [x] Restrain the width of the blog.
+- [x] Drop the page weight.
+- [x] Uses the picture element for art direction
+- [x] Different image crops are loaded depending on viewport size.
 
 
 
@@ -17,6 +19,7 @@
 <h1>How to guide</h1>
 * Install [XAMPP](https://www.apachefriends.org/index.html)
 * Put the project folder into ```/Applications/XAMPP/xamppfiles/htdocs/```
+* Open XAMPP,Click ```start all server```
 * Open your browser, type ```localhost/ResponsiveBlog/```
 
 
