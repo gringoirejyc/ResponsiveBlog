@@ -1,5 +1,8 @@
 # Responsive Images: Project Part 1 #
 
+# UPDATES
+1.There some picture problem about this project, will edit it later
+
 ## Project Goals: ##
 
 - [x] Make the images fit in their containers in the viewport.
