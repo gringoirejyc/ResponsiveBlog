@@ -2,6 +2,7 @@
 
 # UPDATES
 1.There some picture problem about this project, will edit it later
+2.Problem 1 fixed
 
 ## Project Goals: ##
 
